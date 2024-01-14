@@ -14,6 +14,7 @@ Neovim
 Steam
 Etcher
 Obsidian
+Edge
 
 
 ## Dependencies
