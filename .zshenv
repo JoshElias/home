@@ -3,5 +3,3 @@ alias dfh='df -h -x tmpfs -x devtmpfs'
 
 alias vi='nvim'
 alias yay='paru'
-
-XDG_CURRENT_DESKTOP=sway

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+hyprctl keyword monitor HDMI-A-1,3840x2160@60.000,0x0,1,bitdepth,10,vrr,1 \
+  & powerprofilesctl set balanced

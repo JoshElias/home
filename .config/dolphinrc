@@ -1,0 +1,62 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[DetailsMode]
+PreviewSize=16
+
+[ExtractDialog]
+DP-2 DP-3 HDMI-A-1 Height 2560x1440 DP-3=560
+DP-2 DP-3 HDMI-A-1 Width 2560x1440 DP-3=1272
+DP-2 HDMI-A-1 DP-3 Height 1968x1107 DP-2=560
+DP-2 HDMI-A-1 DP-3 Width 1968x1107 DP-2=1272
+DirHistory[$e]=$HOME/Projects/,$HOME/Projects/daemon_technology/,$HOME/.local/share/lutris/runners/wine/
+HDMI-A-1 DP-3 DP-2 Height 1920x1080=560
+HDMI-A-1 DP-3 DP-2 Width 1920x1080=1272
+
+[FileDialogSize]
+DP-2 HDMI-A-1 DP-3 Height 1968x1107 DP-2=598
+DP-2 HDMI-A-1 DP-3 Width 1968x1107 DP-2=839
+
+[General]
+Version=202
+ViewPropsTimestamp=2022,10,5,21,24,44.747
+
+[IconsMode]
+PreviewSize=48
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/.local/share/lutris/runners/wine/,file:$HOME/Projects/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+2 screens: Height=583
+2 screens: Width=437
+3 screens: Height=576
+3 screens: Width=511
+DP-2 DP-3 HDMI-A-1 Height 1968x1107=464
+DP-2 DP-3 HDMI-A-1 Height 2560x1440 DP-3=458
+DP-2 DP-3 HDMI-A-1 Width 1968x1107=407
+DP-2 DP-3 HDMI-A-1 Width 2560x1440 DP-3=392
+DP-2 HDMI-A-1 DP-3 Height 1968x1107 DP-2=616
+DP-2 HDMI-A-1 DP-3 Width 1968x1107 DP-2=419
+DP-3 HDMI-A-1 DP-2 Height 1920x1080 DP-2=458
+DP-3 HDMI-A-1 DP-2 Height 1920x1080 HDMI-A-1=458
+DP-3 HDMI-A-1 DP-2 Height 1968x1107 DP-3=598
+DP-3 HDMI-A-1 DP-2 Width 1920x1080 DP-2=397
+DP-3 HDMI-A-1 DP-2 Width 1920x1080 HDMI-A-1=385
+DP-3 HDMI-A-1 DP-2 Width 1968x1107 DP-3=422
+DisplayPort-2 DisplayPort-1 HDMI-A-0 Height 2560x1440 DisplayPort-2=458
+DisplayPort-2 DisplayPort-1 HDMI-A-0 Width 2560x1440 DisplayPort-2=414
+HDMI-A-1 DP-3 DP-2 Height 2560x1440 DP-3=458
+HDMI-A-1 DP-3 DP-2 Width 2560x1440 DP-3=396
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Open-with settings]
+CompletionMode=1
+History=code
