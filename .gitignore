@@ -35,12 +35,24 @@
 .config/nvim
 
 
+!.local/
+
+!.local/share/fonts/*
+
+.local/share/fish
+.local/share/nvim
+.local/share/recently-used.xbel
+
+.local/pkgs
+.local/state
+
+
 .cache
 .cargo
-.local
 .nuget
 .vscode
 Documents
+Downloads
 Projects
 go
 xone
