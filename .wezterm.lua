@@ -13,13 +13,12 @@ end
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.color_scheme = "One Half Black (Gogh)"
-config.font = wezterm.font("JetBrainsMono NFP")
+config.color_scheme = "Catppuccin Mocha"
+config.font = wezterm.font("JetBrainsMono Nerd Font Mono")
 
 config.hide_tab_bar_if_only_one_tab = true
 config.warn_about_missing_glyphs = false
 
-config.cursor_blink_rate = 800
 config.enable_wayland = true
 
 -- and finally, return the configuration to wezterm

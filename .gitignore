@@ -1,27 +1,46 @@
-/*
+*
+!*/
 
-
+!.bash_logout
+!.bash_profile
+!.bashrc
 !.gitignore
+!.profile
 !.wezterm.lua
+!.zshenv
+!.zshrc
 !README.md
 
 
+!bin/
 
 
-!*/.config/code-flags.conf
-!*/.config/dolphinrc
-!*/.config/electron-flags.conf
-!*/.config/electron19-flags.conf
-!*/.config/electron25-flags.conf
-!*/.config/hypr/*
-!*/.config/paru/*
+!.config/
 
-.config/microsoft-edge
+!.config/autostart/*
+!.config/Code/User/settings.json
+!.config/code-flags.conf
+!.config/dunst/*
+!.config/dolphinrc
+!.config/electron-flags.conf
+!.config/electron19-flags.conf
+!.config/electron25-flags.conf
+!.config/fish/*
+!.config/hypr/*
+!.config/kwalletmanager5rc
+!.config/kwalletrc
+!.config/paru/*
+!.config/waybar/*
+
 .config/nvim
 
 
 .cache
 .cargo
 .local
+.nuget
+.vscode
 Documents
-paru
+Projects
+go
+xone

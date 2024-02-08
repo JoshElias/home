@@ -1,0 +1,13 @@
+[MainWindow]
+2 screens: Height=2094
+2 screens: Width=1133
+2 screens: XPosition=4135
+2 screens: YPosition=54
+DP-2 HDMI-A-1=HDMI-A-1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABG0AAAgYAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+
+[WalletEditor]
+AlwaysShowContents=false
+SplitterSize=480,603

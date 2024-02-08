@@ -1,0 +1,20 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.fontFamily": "'JetBrainsMono Nerd Font Mono', 'Droid Sans Mono', 'monospace', monospace",
+    "window.titleBarStyle": "custom",
+    "dotnet.dotnetPath": "/usr/local/lib/dotnet",
+    "dotnetAcquisitionExtension.enableTelemetry": false,
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        {
+            "extensionId": "ms-dotnettools.csdevkit",
+            "path": "/usr/local/bin/dotnet"
+        }
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "git.confirmSync": false,
+    "editor.fontSize": 15,
+    "debug.console.fontSize": 15,
+    "terminal.integrated.fontSize": 15,
+    "chat.editor.fontFamily": "Noto Sans Mono"
+}
