@@ -12,7 +12,7 @@
 !README.md
 
 
-!bin/
+!bin/*
 
 
 !.config/
@@ -35,7 +35,7 @@
 .config/nvim
 
 
-!.local/
+.local
 
 !.local/share/fonts/*
 
@@ -50,6 +50,7 @@
 .cache
 .cargo
 .nuget
+.steam
 .vscode
 Documents
 Downloads

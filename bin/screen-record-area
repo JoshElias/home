@@ -1,0 +1,7 @@
+#!/usr/bin/env fish
+
+if pgrep -x "wf-recorder" > /dev/null
+  killall -s SIGINT wf-recorder
+else
+  wf-recorder -f ~/Videos/Screen\ Recordings/(date +%Y-%m-%d-%H-%M-%S).mkv -g "$(slurp)"
+end
