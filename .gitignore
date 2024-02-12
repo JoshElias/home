@@ -33,6 +33,7 @@
 !.config/waybar/*
 
 .config/nvim
+.config/google-chrome
 
 
 .local
@@ -47,11 +48,13 @@
 .local/state
 
 
+.asdf
 .cache
 .cargo
 .nuget
 .steam
 .vscode
+.vscode-oss
 Documents
 Downloads
 Projects

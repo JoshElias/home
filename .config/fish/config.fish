@@ -1,7 +1,7 @@
 set fish_greeting ""
 
 # Handle ASDF shims
-source /opt/asdf-vm/asdf.fish
+source ~/.asdf/asdf.fish
 
 # Start SSH Agent
 if test -z (pgrep ssh-agent)
@@ -18,6 +18,6 @@ end
 # Start Hyprland at login
 if status is-login
   if test (tty) = "/dev/tty1"
-    /home/josh/bin/start-hyprland.sh
+    /usr/bin/dbus-run-session /usr/bin/Hyprland
   end
 end

@@ -1,11 +1,15 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR DOTNET_ROOT:/usr/local/lib/dotnet
+SETUVAR DOTNET_CLI_TELEMETRY_OPTOUT:1
+SETUVAR DOTNET_ROOT:/home/josh/\x2easdf/installs/dotnet/8\x2e0\x2e101
 SETUVAR EDITOR:nvim
-SETUVAR --export SSH_AGENT_PID:1077
+SETUVAR --path NIX_PATH:/home/josh/\x2enix\x2ddefexpr/channels/nixos
+SETUVAR --export SSH_AGENT_PID:1057
 SETUVAR SSH_ASKPASS:/usr/bin/ksshaskpass
 SETUVAR SSH_ASKPASS_REQUIRE:prefer
-SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dXXXXXXBaFUs4/agent\x2e1076
+SETUVAR --export SSH_AUTH_SOCK:/tmp/ssh\x2dXXXXXXsmYswW/agent\x2e1056
+SETUVAR WLR_NO_HARDWARE_CURSORS:1
+SETUVAR XDEB_PKGROOT:/home/josh/\x2econfig/xdeb
 SETUVAR __fish_initialized:3400
 SETUVAR fish_color_autosuggestion:969896
 SETUVAR fish_color_cancel:\x2d\x2dreverse
@@ -46,4 +50,4 @@ SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/home/josh/\x2edotnet/tools\x1e/home/josh/\x2edotnet
+SETUVAR fish_user_paths:/home/josh/bin\x1e/home/josh/\x2enix\x2dprofile/bin\x1e/home/josh/\x2edotnet/tools\x1e/home/josh/\x2edotnet
