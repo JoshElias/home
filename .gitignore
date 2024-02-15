@@ -32,6 +32,8 @@
 !.config/paru/*
 !.config/waybar/*
 
+.config/chromium
+.config/microsoft-edge
 .config/nvim
 .config/google-chrome
 
@@ -51,6 +53,7 @@
 .asdf
 .cache
 .cargo
+.dotnet
 .nuget
 .steam
 .vscode
